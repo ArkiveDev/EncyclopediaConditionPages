@@ -17,4 +17,5 @@ Mod for Pathfinder: Wrath of the Righteous. Adds more pages to the encyclopedia,
 ## Acknowledgements
 * Pathfinder: Wrath of The Righteous Discord for general help
 * Vek17's blueprint dump
+* Vek17's [TableTopTweaks](https://github.com/Vek17/WrathMods-TabletopTweaks) for example code
 * Kingmaker fandom  [Condition page](https://pathfinderkingmaker.fandom.com/wiki/Condition) for condition information

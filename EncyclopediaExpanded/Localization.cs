@@ -14,13 +14,16 @@ namespace EncyclopediaExpanded
     public static class Localization
     {
         public static ModEntry modEntry;
+        public static string enFileName = "enGB.json";
+        public static string locFolderName = "Localization";
 
         public static void AddEnglishStrings() 
         {
             LocalizationPack LP = new LocalizationPack();
             LP.Locale = Kingmaker.Localization.Shared.Locale.enGB;
 
-            using (StreamReader sr = new StreamReader( modEntry.Path + "Localization\\enGB.json"))
+            //using (StreamReader sr = new StreamReader(modEntry.Path + "Localization\\enGB.json"))
+            using (StreamReader sr = new StreamReader(modEntry.Path + $"{locFolderName}{Path.DirectorySeparatorChar}{enFileName}"))
             {
                 string json = sr.ReadToEnd();
                 var dict = JsonConvert.DeserializeObject<Dictionary<string, string>>(json);
