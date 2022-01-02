@@ -2,7 +2,7 @@
 	"Id": "EncyclopediaExpanded",
 	"DisplayName": "Encyclopedia Expanded",
 	"Author": "Arkive",
-	"Version": "0.1.0",
+	"Version": "1.0.0",
 	"ManagerVersion": "0.23.0.0",
 	"EntryMethod": "EncyclopediaExpanded.Main.Load",
 	"Repository": "https://raw.githubusercontent.com/ArkiveDev/EncyclopediaExpanded/master/Repository.json",
