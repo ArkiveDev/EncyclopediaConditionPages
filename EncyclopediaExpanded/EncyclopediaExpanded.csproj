@@ -7,8 +7,8 @@
     <ProjectGuid>{E887CDE2-D392-4037-80CF-BAF9C687CEC8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EncyclopediaExpanded</RootNamespace>
-    <AssemblyName>EncyclopediaExpanded</AssemblyName>
+    <RootNamespace>EncyclopediaConditionPages</RootNamespace>
+    <AssemblyName>EncyclopediaConditionPages</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
