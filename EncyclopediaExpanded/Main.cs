@@ -12,7 +12,7 @@ using Kingmaker.Blueprints.Encyclopedia.Blocks;
 using Kingmaker.Localization;
 using UnityEngine;
 
-namespace EncyclopediaExpanded
+namespace EncyclopediaConditionPages
 {
     public class Main
     {

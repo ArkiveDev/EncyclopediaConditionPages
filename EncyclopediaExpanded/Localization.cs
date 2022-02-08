@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static UnityModManagerNet.UnityModManager;
 
-namespace EncyclopediaExpanded
+namespace EncyclopediaConditionPages
 {
     public static class Localization
     {

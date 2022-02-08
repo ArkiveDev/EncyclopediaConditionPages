@@ -1,11 +1,11 @@
 {
-	"Id": "EncyclopediaExpanded",
-	"DisplayName": "Encyclopedia Expanded",
+	"Id": "EncyclopediaConditionPages",
+	"DisplayName": "Encyclopedia Condition Pages",
 	"Author": "Arkive",
 	"Version": "1.0.0",
 	"ManagerVersion": "0.23.0.0",
-	"EntryMethod": "EncyclopediaExpanded.Main.Load",
-	"Repository": "https://raw.githubusercontent.com/ArkiveDev/EncyclopediaExpanded/master/Repository.json",
-	"HomePage": "https://github.com/ArkiveDev/EncyclopediaExpanded/releases"
+	"EntryMethod": "EncyclopediaConditionPages.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/ArkiveDev/EncyclopediaConditionPages/master/Repository.json",
+	"HomePage": "https://github.com/ArkiveDev/EncyclopediaConditionPages/releases"
 }
 	

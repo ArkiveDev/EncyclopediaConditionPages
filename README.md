@@ -1,5 +1,5 @@
-# Encyclopedia Expanded
-Mod for Pathfinder: Wrath of the Righteous. Adds more pages to the encyclopedia, like conditions
+# Encyclopedia Condition Pages
+Mod for Pathfinder: Wrath of the Righteous. Adds condition pages to the encyclopedia.
 
 ## Disclaimers
 * Please **DO NOT** report bugs to Owlcat when you are using mods!
